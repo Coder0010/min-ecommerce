@@ -1,19 +1,19 @@
-# testing-geek system
+# min-ecommerce system
 
-this testing-geek system made by laravel framework as back end and used free only theme as front
+this min-ecommerce system made by laravel framework as back end and used free only theme as front
 ### Step One
 
 Clone the repository
 
-    git clone git@github.com:coder0010/testing-geek
+    git clone git@github.com:coder0010/min-ecommerce
 
 or you can download it by the desktop application of github
 
-https://github.com/coder0010/testing-geek
+https://github.com/coder0010/min-ecommerce
 
 Switch to the repo folder
 
-    cd testing-geek
+    cd min-ecommerce
 
 ### Step Two
 
@@ -30,6 +30,9 @@ run this command to create main database
     choose second one to run **migrate_and_seed** and after it finished
 
 ### Step Three
+
+    run **php artisan test** to run tesing of project
+### Step Four
 
     php artisan serve
 
